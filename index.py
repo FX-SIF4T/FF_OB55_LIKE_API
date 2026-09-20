@@ -1,0 +1,2 @@
+from wsgi import app
+

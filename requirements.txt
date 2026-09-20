@@ -1,0 +1,17 @@
+Flask
+flask-cors
+requests
+aiohttp
+urllib3
+pycryptodome
+protobuf
+orjson
+aiohttp
+crypto
+Flask
+flask-cors
+orjson
+protobuf
+pycryptodome
+requests
+urllib3
