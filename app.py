@@ -43,7 +43,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 CLIENT_VERSION = "1.132.1"
 OB_VERSION     = "OB55"
 
-JWT_API = "http://38.29.171.32:2020/token"
+JWT_API = "https://fx-sifat-jwt-api.vercel.app/token"
 
 JWT_WORKERS   = 60
 LIKE_CONCUR   = 150
